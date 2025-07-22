@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **javascript, laravel, HTML, and CSS**
 
-- 📫 How to reach me **hijani29714@gmail.com**
+- 📫 How to reach me **ehtishamfarmanmughal@gmail.com**
 
 - ⚡ Fun fact **fun in coding "love it"**
 
